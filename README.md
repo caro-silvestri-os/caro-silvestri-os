@@ -10,5 +10,5 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
-![Visitor Count](https : //profile-counter.glitch.me/caro-silvestri-os/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/caro-silvestri-os/count.svg)
 
