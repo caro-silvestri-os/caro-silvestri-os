@@ -9,4 +9,4 @@ y el chiste de día
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=caro-silvestri-osleft_color=green&right_color=red)
